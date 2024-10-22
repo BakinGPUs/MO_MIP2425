@@ -1,0 +1,36 @@
+commit d9eed8981d89c1d90de29d8ee70459bdc388155c
+Author: BakinGPUs <ok.haffi44@gmail.com>
+Date:   Tue Oct 15 17:10:06 2024 +0200
+
+    CC4-23, 1 vyber temy
+
+commit 7c54243ce19105efe1885e5d04c8ad24892d2c85
+Author: BakinGPUs <ok.haffi44@gmail.com>
+Date:   Tue Oct 15 17:03:05 2024 +0200
+
+    CC4-23,1 vyber temy
+
+commit 4681289c6b486571257b8ab3c63b5ae0b8100eba
+Author: BakinGPUs <ok.haffi44@gmail.com>
+Date:   Tue Oct 1 16:58:15 2024 +0200
+
+    vzor
+
+commit cbd2bafc4b49d99af0a63244fc1ea65b24bd3d38
+Merge: b8b4e36 a6c53c2
+Author: BakinGPUs <ok.haffi44@gmail.com>
+Date:   Tue Oct 1 16:43:37 2024 +0200
+
+    Merge branch 'main' of https://github.com/BakinGPUs/MO_MIP2425
+
+commit b8b4e3644a09ec7ca492a2ac5eda9043eca39068
+Author: BakinGPUs <ok.haffi44@gmail.com>
+Date:   Tue Oct 1 16:40:58 2024 +0200
+
+    first commit
+
+commit a6c53c20a5ceabc5c2b5024fad83b637b958d286
+Author: BakinGPUs <104143266+BakinGPUs@users.noreply.github.com>
+Date:   Tue Sep 24 17:32:41 2024 +0200
+
+    Add files via upload
