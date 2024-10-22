@@ -1,3 +1,9 @@
+commit 1fe91a9abe8d7a97846d0ec6b0231eb8b5394450
+Author: BakinGPUs <ok.haffi44@gmail.com>
+Date:   Tue Oct 22 16:33:02 2024 +0200
+
+    CC4-26, 4 filtrovanie zdrojov
+
 commit d48d54c74ece9cc8e44962ade8f4ac90816b8eea
 Author: BakinGPUs <ok.haffi44@gmail.com>
 Date:   Tue Oct 22 16:32:23 2024 +0200
